@@ -1,0 +1,15 @@
+C:\Users\Jesus\Documents\GitHub\Rockola\Rockola\bin\Debug\Rockola.exe.config
+C:\Users\Jesus\Documents\GitHub\Rockola\Rockola\bin\Debug\Rockola.exe
+C:\Users\Jesus\Documents\GitHub\Rockola\Rockola\bin\Debug\Rockola.pdb
+C:\Users\Jesus\Documents\GitHub\Rockola\Rockola\obj\Debug\Rockola.csprojResolveAssemblyReference.cache
+C:\Users\Jesus\Documents\GitHub\Rockola\Rockola\obj\Debug\Interop.WMPLib.dll
+C:\Users\Jesus\Documents\GitHub\Rockola\Rockola\obj\Debug\Rockola.csproj.ResolveComReference.cache
+C:\Users\Jesus\Documents\GitHub\Rockola\Rockola\obj\Debug\Rockola.Form1.resources
+C:\Users\Jesus\Documents\GitHub\Rockola\Rockola\obj\Debug\Rockola.Properties.Resources.resources
+C:\Users\Jesus\Documents\GitHub\Rockola\Rockola\obj\Debug\Rockola.csproj.GenerateResource.Cache
+C:\Users\Jesus\Documents\GitHub\Rockola\Rockola\obj\Debug\Rockola.exe
+C:\Users\Jesus\Documents\GitHub\Rockola\Rockola\obj\Debug\Rockola.pdb
+C:\Users\Jesus\Documents\GitHub\Rockola\Rockola\bin\Debug\Interop.WMPLib.dll
+C:\Users\Jesus\Documents\GitHub\Rockola\Rockola\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Jesus\Documents\GitHub\Rockola\Rockola\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Jesus\Documents\GitHub\Rockola\Rockola\obj\Debug\Rockola.Form2.resources
